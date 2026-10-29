@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <Name value="VehicleFreeLook" />
+  <DisplayName value="Vehicle Free Look" />
+  <Description value="Separates keyboard vehicle steering from automatic camera yaw. Selects keyboard steering when the local driver mounts." />
+  <Author value="Local Mod" />
+  <Version value="1.0.0" />
+  <SkipWithAntiCheat value="true" />
+</xml>
